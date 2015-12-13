@@ -1,3 +1,3 @@
-ClearUtil
+#ClearUtil
 Help: 
-Run util: clear.py --file=
+Run util: clear.py --file=your_file
